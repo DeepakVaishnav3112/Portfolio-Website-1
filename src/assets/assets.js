@@ -25,7 +25,7 @@ import fullstack_icon from "./fullstack_icon.png";
 import api_icon from "./api.png";
 import wonderlust_thumbnail from "./Project_Previews/Wonderlust_thumbnail.jpg";
 import zerodha_clone_thumbnail from "./Project_Previews/Zerodha_Clone_Thumbnail.jpg";
-import nekonime_thumbnail from "./Project_Previews/Nekonime_Thumbnail.jpg";
+import nekonime_thumbnail from "./Project_Previews/NekoNime_Thumbnail.jpg";
 import communication from "./icons/communication.svg";
 import solution from "./icons/solution.svg";
 import brain from "./icons/brain.svg";
