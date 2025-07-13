@@ -23,7 +23,7 @@ import email_icon_2 from "./email_icon_2.svg";
 import themed_icon from "./theme.png";
 import fullstack_icon from "./fullstack_icon.png";
 import api_icon from "./api.png";
-import wonderlust_thumbnail from "./Project_Previews/Wonderlust_Thumbnail.jpg";
+import wonderlust_thumbnail from "./Project_Previews/Wonderlust_thumbnail.jpg";
 import zerodha_clone_thumbnail from "./Project_Previews/Zerodha_Clone_Thumbnail.jpg";
 import nekonime_thumbnail from "./Project_Previews/Nekonime_Thumbnail.jpg";
 import communication from "./icons/communication.svg";
