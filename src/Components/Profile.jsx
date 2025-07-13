@@ -21,7 +21,7 @@ const Profile = () => {
                     <img className='w-[170px] rounded-md' src={assets.profile_picture} alt="" />
                 </div>
                 <h2 className='font-bold text-2xl'>Deepak Vaishnav</h2>
-                <p className='text-[rgba(11,9,9,0.5)] text-sm'>FullStack Developer</p>
+                <p className='text-[rgba(11,9,9,0.5)] text-sm'>FullStack Web Developer</p>
 
                 {/* ----- Social Media Links ----- */}
                 <div className='flex gap-3 mt-2'>
