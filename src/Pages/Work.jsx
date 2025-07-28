@@ -35,6 +35,7 @@ const Work = () => {
           image={assets.nekonime_thumbnail}
           techStack="React, Tailwind, Express, MongoDB, Mongoose, AniList API, Jikan API, Youtube Data V3 API"
           github="https://github.com/yourusername/nekonime"
+          liveDemo="https://nekonime-frontend.vercel.app/"
           bgColor="bg-[#FFEBD1]"
         />
       </div>
